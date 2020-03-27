@@ -15,7 +15,7 @@ def hopper
       }
     }
 end
-hopper["grace_hopper"][:languages]
+
 
 def alan_kay_is_known_for
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
@@ -57,7 +57,7 @@ def dennis_ritchies_language
     }
 
 end
-dennis_ritchies_language["dennis_richie"][:languages]
+
 def adding_matz
 # add the following information to the top level of programmer_hash
 # :yukihiro_matsumoto => {
